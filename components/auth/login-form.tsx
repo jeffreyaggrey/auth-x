@@ -52,7 +52,7 @@ export function LoginForm() {
     <CardWrapper
       headerLabel="Welcome back"
       backButtonLabel="Don't have an account?"
-      backButtonHref="/auth/>register"
+      backButtonHref="/auth/register"
       showSocial
     >
       <Form {...form}>
